@@ -1837,7 +1837,7 @@ async def broadcast_message(client, message):
 
 AUTO = True
 ADD_INTERVAL = 200
-users = "KhushiXchatbot"  # don't change because it is connected from client to use chatbot API key
+users = "anshi_chat_robot"  # don't change because it is connected from client to use chatbot API key
 async def add_bot_to_chats():
     try:
         
